@@ -45,8 +45,8 @@ Here is a conversational image editor built with Streamlit and powered by a mult
 
 **1. Clone and install**
 ```bash
-git clone https://github.com/EESHAK02/img-editor.git
-cd lens
+git clone https://github.com/EESHAK02/image-editor.git
+cd image-editor
 pip install -r requirements.txt
 ```
 
