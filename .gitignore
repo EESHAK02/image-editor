@@ -1,0 +1,23 @@
+# Streamlit secrets
+.streamlit/
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Files
+*.docx
+*.pdf
